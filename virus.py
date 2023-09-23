@@ -734,7 +734,7 @@ No.	名前
 552	ワルビル
 '''
 
-for i in range(11):
+for i in range(10000000000001):
     f=open('pokemon{}'.format(i),"w")
     f.write(sentence)
     f.close
